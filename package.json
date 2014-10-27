@@ -1,0 +1,28 @@
+{
+  "name": "lardi-trans-api",
+  "version": "0.0.1",
+  "description": "A library for api.lardi-trans.com API access",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rahmanroman/lardi-trans-api"
+  },
+  "keywords": [
+    "lardi-trans"
+  ],
+  "author": {
+    "name": "Roman Rahman",
+    "email": "rahman.roman@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rahmanroman/lardi-trans-api/issues"
+  },
+  "homepage": "https://github.com/rahmanroman/lardi-trans-api",
+  "dependencies": {
+    "q": "~1.0.1",
+    "request": "~2.47.0",
+    "xml2js": "~0.4.4"
+  }
+}
